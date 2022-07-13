@@ -1,0 +1,4 @@
+Resolusi Mimin
+1. Menguasai HTML
+2. Menguasai CSS
+3. Menguasai Javascript
